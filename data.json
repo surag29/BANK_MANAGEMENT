@@ -1,0 +1,34 @@
+[
+    {
+        "NAME": "surag devadiga",
+        "AGE": 21,
+        "EMAIL": "surudev29@gmail.com",
+        "PIN": 1234,
+        "ACCOUNTNO": "E2si94#",
+        "BALANCE": 9000
+    },
+    {
+        "NAME ": "sur",
+        "AGE": 20,
+        "EMAIL": "rrrrr",
+        "PIN": 5678,
+        "ACCOUNTNO": "c*C8O82",
+        "BALANCE": 0
+    },
+    {
+        "NAME": "surag",
+        "AGE": 22,
+        "EMAIL": "surag@gmail.com",
+        "PIN": 1234,
+        "ACCOUNTNO": "299Sd$O",
+        "BALANCE": 0
+    },
+    {
+        "NAME": "suru",
+        "AGE": 22,
+        "EMAIL": "suru@gmail.com",
+        "PIN": 1233,
+        "ACCOUNTNO": "4i82B!M",
+        "BALANCE": 2000
+    }
+]
