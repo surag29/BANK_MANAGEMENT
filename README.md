@@ -5,14 +5,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**A console-based banking application built with Python**
+**A web-based banking application with Streamlit UI built with Python**
 
 </div>
 
 ## 📚 Overview
 
-This project is a fully functional Bank Management System implemented in Python. It simulates core banking operations with a user-friendly command-line interface, featuring secure account management, transaction processing, and persistent data storage using JSON.
+This project is a fully functional Bank Management System implemented in Python. It simulates core banking operations with a user-friendly web-based bStreamlit web interfaceanking application with Streamlit UI, featuring secure account management, transaction processing, and persistent data storage using JSON.
 
 ## ✨ Features
 
@@ -58,6 +59,7 @@ This project is a fully functional Bank Management System implemented in Python.
   - `random` - Account number generation
   - `string` - String operations
   - `pathlib` - File path handling
+  - `streamlit` - Web UI framework for interactive applications
 
 ## 📁 Project Structure
 
@@ -75,7 +77,7 @@ BANK_MANAGEMENT/
 
 ### Prerequisites
 - Python 3.x installed on your system
-- Basic understanding of command-line interface
+- Basic understanding of web-based bStreamlit web interfaceanking application with Streamlit UI
 
 ### Installation & Usage
 
@@ -87,12 +89,9 @@ BANK_MANAGEMENT/
 
 2. **Run the application**
    ```bash
-   python main.py
-   ```
-   or
-   ```bash
-   python app.py
-   ```
+   streamlit run app.py   ```
+   python[[](url)](url) app.py[[](url)](url)
+   ```[](url)
 
 3. **Follow the on-screen menu:**
    - Create a new account
@@ -124,7 +123,7 @@ BANK_MANAGEMENT/
 ✅ Designed secure authentication system
 ✅ Created persistent data storage using JSON
 ✅ Developed input validation and error handling
-✅ Built user-friendly command-line interface
+✅ Built user-friendly web-based bStreamlit web interfaceanking application with Streamlit UI
 ✅ Applied Python OOP principles
 
 ## 🔮 Future Enhancements
